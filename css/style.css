@@ -34,6 +34,12 @@ section {
 }
 
 /* body */
+.jumbotron {
+  margin-bottom: 94px;
+}
+.tulisan-utama {
+  padding-bottom: 3px;
+}
 .ketebalan-sedang {
   font-weight: 700;
 }
