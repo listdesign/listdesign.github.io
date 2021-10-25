@@ -32,7 +32,7 @@ section {
 
 /* body */
 .jumbotron {
-  margin-bottom: 94px;
+  margin-bottom: 122px;
 }
 .tulisan-utama {
   padding-bottom: 3px;
@@ -109,7 +109,7 @@ section {
 #service {
   padding-bottom: 9rem;
   background-color: #017294;
-  min-height: 630px;
+  min-height: 654px;
 }
 
 #service h2 {
