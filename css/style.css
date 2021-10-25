@@ -76,7 +76,7 @@ section {
   transition: 0.3s;
 }
 
-.button:hover {
+.button-beli:hover {
   background-color: #2bebbb !important;
   color: #fff;
 }
