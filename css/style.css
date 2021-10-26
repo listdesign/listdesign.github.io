@@ -121,6 +121,11 @@ section {
   height: 350px;
 }
 
+/* contact */
+.formulir {
+  margin-bottom: 200px;
+}
+
 /* footer */
 footer {
   background-color: #017294;
