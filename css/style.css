@@ -116,6 +116,11 @@ section {
   color: #fff;
 }
 
+/* design */
+.card img {
+  height: 350px;
+}
+
 /* footer */
 footer {
   background-color: #017294;
